@@ -1,2 +1,2 @@
-# Pol-ticos-na-Ficha-Suja-do-Trabalh-Escravo
-Códigos utilizados para a reportagem que analisou políticos eleitos nas eleições de 2024 que estavam na lista suaja do trabalho escravo no Brasil
+# Políticos na Ficha Suja do Trabalho Escravo
+## Código utilizado para análise de dados da reportagem: [Prefeito e 5 vereadores eleitos em 2024 estão na lista suja do trabalho escravo](https://g1.globo.com/politica/noticia/2025/01/28/prefeito-e-5-vereadores-eleitos-em-2024-estao-na-lista-suja-do-trabalho-escravo.ghtml).
